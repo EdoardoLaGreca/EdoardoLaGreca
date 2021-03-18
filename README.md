@@ -16,4 +16,4 @@ I somehow hate Microsoft and big tech companies which do not respect their users
 
 Even though **I love open source software**, I hate GNU (but less than big tech companies) because [GNU is bloat](http://9front.org/img/longcat.png) and I find that its license (the GNU GPL license) is kind of hypocritical. You may ask why, well... first: you need a lawyer to understand it and second: how can you talk about freedom if you have no freedom of choosing a different license for a software derived from a GPL-licensed one?
 
-Beside computer science, I also like to play piano and listen to various music genres which are electronic and lofi mainly. My favorite artist(s) are Twenty One Pilots, which are an exception to the rule since they don't (mainly) produce electronic or lofi music.
+Beside computer science, I also like to play piano and listen to various music genres which are mainly electronic and lofi. My favorite artist(s) are Twenty One Pilots, which are an exception to the rule since they don't produce electronic or lofi music.
