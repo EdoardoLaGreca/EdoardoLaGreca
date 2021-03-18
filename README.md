@@ -2,7 +2,7 @@
 
 ## About me
 
-Hi everyone, I'm a (<current_year> - 2001) years old Italian boy who's interested in niche projects, abandoned as well as still in active development. I mainly develop things in Rust, which is by far my favorite language although I also know C.
+Hi everyone, I'm a (`<current_year> - 2001`) years old Italian boy who's interested in niche projects, abandoned as well as still in active development. I mainly develop things in Rust, which is by far my favorite language although I also know C.
 
 I'm the kind of guy who starts many projects and finishes less than half of them. However, I always try my best at finishing what I started.
 
