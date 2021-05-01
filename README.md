@@ -10,12 +10,12 @@ I'm working on a webserver and soon(er or later) I will host my personal website
 
 ## My interests and opinions
 
-My favorite parts of computer science are: low-level programming, optimization and operating systems (especially UNIX-like) as long as they are open source. Also, thanks to [Golang](https://golang.org/) and his majesty [Rob Pike](https://en.wikipedia.org/wiki/Rob_Pike), I recently got interested in concurrency.
+My favorite parts of computer science are: low-level programming, optimization and operating systems (especially UNIX-like or UNIX-derived such as [OpenBSD](https://www.openbsd.org/)) as long as they are open source. Also, thanks to [Golang](https://golang.org/) and his majesty [Rob Pike](https://en.wikipedia.org/wiki/Rob_Pike), I recently got interested in concurrency.
 
 I somehow hate Microsoft and big tech companies which do not (or potentially may not) respect their users' privacy. Transparency should never be optional.
 
 Even though I love open source software, I don't like either GNU software, because [GNU is bloat](http://9front.org/img/longcat.png), or its license (the GNU GPL license), because you cannot talk about freedom if you force using the same license for a derived software (which is basically what every copyleft license imposes).  
-However, this does not mean that proprietary software shouldn't exists, I think it's still important to economically support developers.
+However, this does not mean that proprietary software shouldn't exist, I think it's still important to economically support developers.
 
 I agree with most of what is written in [cat-v.org](cat-v.org), not everything though.
 
