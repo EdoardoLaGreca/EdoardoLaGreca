@@ -14,9 +14,9 @@ My favorite parts of computer science are: low-level programming, optimization a
 
 I somehow hate Microsoft and big tech companies which do not (or potentially may not) respect their users' privacy. Transparency should never be optional.
 
-Even though I love open source software, I don't like either GNU software, because [GNU is bloat](http://9front.org/img/longcat.png), or its license (the GNU GPL license), because you cannot talk about freedom if you force using the same license for a derived software (which is basically what every copyleft license imposes).  
-However, this does not mean that proprietary software shouldn't exist, I think it's still important to economically support developers.
+I really like open source software, but I'm not against selling it, which is important to economically support developers.  
+I don't like either GNU software, because [GNU is bloat](http://9front.org/img/longcat.png), or its license (the GNU GPL license), because you cannot talk about freedom if you force using the same license for a derived software (which is basically what every copyleft license imposes).  
 
 I agree with most of what is written in [cat-v.org](cat-v.org), not everything though.
 
-Beside computer science, I also like to play piano and listen to various music genres which are mainly electronic and lofi. My favorite artist(s) are Twenty One Pilots, which are an exception to the rule since they don't produce either electronic or lofi music.
+Beside computer science, I also like to play piano and listen to various music genres which are mainly electronic and [lofi](https://en.wikipedia.org/wiki/Lo-fi_music). My favorite artist(s) are [Twenty One Pilots](https://en.wikipedia.org/wiki/Twenty_One_Pilots), which are an exception to the rule since they don't produce either electronic or lofi music.
