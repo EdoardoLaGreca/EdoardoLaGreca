@@ -2,7 +2,7 @@
 
 ## About me
 
-Hi everyone, I'm a (`<current_year> - 2001`) years old Italian boy who's interested in niche projects, both abandoned and still in active development. I know [Rust](https://www.rust-lang.org/) and C (although I had some experience with other languages such as C#, Python and JavaScript). I'm currently learning [Go](https://golang.org/).
+Hi everyone, I'm a (`<current_year> - 2001`) years old Italian boy who's interested in niche projects, both abandoned and still in active development. I know [Rust](https://www.rust-lang.org/) and [C](https://en.wikipedia.org/wiki/C_(programming_language)) (although I had some experience with other languages such as C#, Python and JavaScript). I'm currently learning [Go](https://golang.org/) and my favorite language is [C99](https://en.wikipedia.org/wiki/C99).
 
 I'm the kind of guy who starts many projects and finishes less than half of them. However, I always try my best at finishing what I started.
 
@@ -19,7 +19,7 @@ I don't like either GNU software, because [GNU is bloat](http://9front.org/img/l
 
 I agree with most of what is written in [cat-v.org](cat-v.org), not everything though.
 
-Beside computer science, I also like to play piano and listen to various music genres which are mainly electronic and [lofi](https://en.wikipedia.org/wiki/Lo-fi_music). My favorite artist(s) are [Twenty One Pilots](https://en.wikipedia.org/wiki/Twenty_One_Pilots), which are an exception to the rule since they don't produce either electronic or lofi music.
+Beside computer science, I also like to play piano and listen to various music genres which are mainly electronic, [lofi](https://en.wikipedia.org/wiki/Lo-fi_music) and some [vaporwave](https://en.wikipedia.org/wiki/Vaporwave) subgenres. My favorite artist(s) are [Twenty One Pilots](https://en.wikipedia.org/wiki/Twenty_One_Pilots), which are an exception to the rule since they don't produce either electronic or lofi music.
 
 ## Contacts
 [Matrix](https://matrix.org/): `@elagreca:matrix.org`
