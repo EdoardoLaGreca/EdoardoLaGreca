@@ -19,7 +19,7 @@ I don't like either GNU software, because [GNU is bloat](http://9front.org/img/l
 
 I agree with most of what is written in [cat-v.org](cat-v.org), not everything though.
 
-Beside computer science, I also like to play piano and listen to various music genres which are mainly electronic, [lofi](https://en.wikipedia.org/wiki/Lo-fi_music) and some [vaporwave](https://en.wikipedia.org/wiki/Vaporwave) subgenres. My favorite artist(s) are [Twenty One Pilots](https://en.wikipedia.org/wiki/Twenty_One_Pilots), which are an exception to the rule since they don't produce either electronic or lofi music.
+Beside computer science, I also like to play piano and listen to various music genres which are mainly electronic, [lofi](https://en.wikipedia.org/wiki/Lo-fi_music) and some [vaporwave](https://en.wikipedia.org/wiki/Vaporwave) subgenres. My favorite artist(s) are [Twenty One Pilots](https://en.wikipedia.org/wiki/Twenty_One_Pilots), which are an exception to the rule since the songs they produce don't belong to any of the music genres I often listen to.
 
 ## Contacts
 [Matrix](https://matrix.org/): `@elagreca:matrix.org`
