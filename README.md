@@ -10,7 +10,7 @@ I'm working on a webserver and soon(er or later) I will host my personal website
 
 ## My interests and opinions
 
-I like many fields of computer science, such as operating systems (especially UNIX-like or UNIX-derived such as [OpenBSD](https://www.openbsd.org/)) especially if they are open source. Also, thanks to [Golang](https://golang.org/) and his majesty [Rob Pike](https://en.wikipedia.org/wiki/Rob_Pike), I recently got interested in concurrency.
+I like many fields of computer science, such as operating systems (especially UNIX-like or UNIX-derived such as [OpenBSD](https://www.openbsd.org/) or [NetBSD](https://netbsd.org/)) especially if they are open source. Also, thanks to [Golang](https://golang.org/) and his majesty [Rob Pike](https://en.wikipedia.org/wiki/Rob_Pike), I recently got interested in concurrency.
 
 I somehow hate Microsoft and big tech companies which do not (or potentially may not) respect their users' privacy. Transparency should never be optional.
 
