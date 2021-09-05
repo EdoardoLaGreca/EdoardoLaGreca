@@ -2,11 +2,11 @@
 
 ## About me
 
-Hi everyone, I'm a (`<current_year> - 2001`) years old Italian boy who's interested in niche projects, both abandoned and still in active development. I know [Rust](https://www.rust-lang.org/) and [C](https://en.wikipedia.org/wiki/C_(programming_language)) (although I had some experience with other languages such as C#, Python and JavaScript). I'm currently learning [Go](https://golang.org/) and my favorite language is [ANSI C](https://en.wikipedia.org/wiki/ANSI_C).
+Hi everyone, I'm a (`<current_year> - 2001`) years old Italian boy who's interested in niche projects, both abandoned and still in active development. I know [Rust](https://www.rust-lang.org/) and [ANSI C](https://en.wikipedia.org/wiki/ANSI_C) (although I had some experience with other languages such as C#, Python and JavaScript). I'm currently learning [Go](https://golang.org/), which is my favorite programming language.
 
 I'm the kind of guy who starts many projects and finishes less than half of them. However, I always try my best at finishing what I started.
 
-I'm working on a [webserver](https://github.com/EdoardoLaGreca/websrvr) and soon(er or later) I will host my personal website with it. A link to that website will appear on both this README and my GitHub profile.
+I'm working on a webserver and soon(er or later) I will host my personal website with it. A link to that website will appear on both this README and my GitHub profile.
 
 ## My interests and opinions
 
