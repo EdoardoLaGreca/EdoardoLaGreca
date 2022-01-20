@@ -2,9 +2,9 @@
 
 ## About me
 
-Hi everyone, I'm a (`<current_year> - 2001`) years old Italian boy who's interested in niche projects, either abandoned or still in active development. I know several programming languages, including: [ANSI C](https://en.wikipedia.org/wiki/ANSI_C), [Go](https://golang.org/), [Rust](https://www.rust-lang.org/), and other languages that I learned during my course of studies.
+Hi everyone, I'm a (`<current_year> - 2001`) years old man who's interested in niche projects, either abandoned or still in active development. I know several programming languages, including: [C](https://en.wikipedia.org/wiki/C_(programming_language)), [Go](https://golang.org/), [Rust](https://www.rust-lang.org/), and other languages that I learned during my course of studies. I started programming as self-taught back in 2015.
 
-My favorite languages are ANSI C and Go.
+My favorite languages are C and Go.
 
 I'm working on a webserver and soon(er or later) I will host my personal website with it. A link to that website will appear on both this README and my GitHub profile.
 
