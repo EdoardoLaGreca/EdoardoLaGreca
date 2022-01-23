@@ -1,5 +1,7 @@
 ![](https://img.shields.io/github/last-commit/EdoardoLaGreca/EdoardoLaGreca?label=last%20change)
 
+Welcome to the land of unfinished side projects. Proceed at your own risk.
+
 ## About me
 
 Hi everyone, I'm a (`<current_year> - 2001`) years old man who's interested in niche projects, either abandoned or still in active development. I know several programming languages, including: [C](https://en.wikipedia.org/wiki/C_(programming_language)), [Go](https://golang.org/), [Rust](https://www.rust-lang.org/), and other languages that I learned during my course of studies. I started programming as self-taught back in 2015.
