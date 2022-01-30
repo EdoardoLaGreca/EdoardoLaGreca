@@ -8,7 +8,7 @@ Hi everyone, I'm a (`<current_year> - 2001`) years old man who's interested in n
 
 My favorite languages are C and Go.
 
-I recently got into Android modding.
+I'm learning the Plan 9 dialect of C.
 
 I'm working on a webserver and soon(er or later) I will host my personal website with it. A link to that website will appear on both this README and my GitHub profile.
 
