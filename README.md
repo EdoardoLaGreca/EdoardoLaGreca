@@ -10,8 +10,6 @@ My favorite languages are C and Go.
 
 I'm learning the Rc shell by reading [this](http://doc.cat-v.org/plan_9/4th_edition/papers/rc) document and the Plan 9 C dialect by reading [this](http://doc.cat-v.org/plan_9/programming/c_programming_in_plan_9) document.
 
-I'm working on a webserver and soon(er or later) I will host my personal website with it. A link to that website will appear on both this README and my GitHub profile.
-
 ## Thoughts and unpopular opinions
 
 [Plan 9](https://en.wikipedia.org/wiki/Plan_9_from_Bell_Labs) is by far the most underrated operating system.
