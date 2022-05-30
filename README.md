@@ -2,14 +2,10 @@
 
 Welcome to the land of unfinished side projects. Proceed at your own risk.
 
-## Random facts
+## Me
 
-Hi everyone, I'm a (`<current_year> - 2001`) years old man who's interested in niche projects, either abandoned or still in active development. I know several programming languages, including: [C](https://en.wikipedia.org/wiki/C_(programming_language)), [Go](https://golang.org/), [Rust](https://www.rust-lang.org/), and other languages that I learned during my course of studies. I started programming as self-taught back in 2015.
+Hi everyone, I'm an Italian man born in 2001. I know several programming languages and I started programming as self-taught back in 2015. For the past years I've been learning several programming languages but my favorite is [C90](https://en.wikipedia.org/wiki/ANSI_C). I also like [Golang](https://go.dev/) a lot.
 
-My favorite language is C90.
+I like [Plan 9](https://en.wikipedia.org/wiki/Plan_9_from_Bell_Labs), [9front](https://9front.org/) and all the related things. In fact, one day I would like to learn the [Rc shell](http://doc.cat-v.org/plan_9/4th_edition/papers/rc) and the [Plan 9 C dialect](http://doc.cat-v.org/plan_9/programming/c_programming_in_plan_9). Plan 9 is by far the most underrated operating system.
 
-I'm learning the Rc shell by reading [this](http://doc.cat-v.org/plan_9/4th_edition/papers/rc) document and the Plan 9 C dialect by reading [this](http://doc.cat-v.org/plan_9/programming/c_programming_in_plan_9) document.
-
-[Plan 9](https://en.wikipedia.org/wiki/Plan_9_from_Bell_Labs) is by far the most underrated operating system.
-
-The most dangerous enemy of a better solution is an existing codebase that is just good enough.
+"The most dangerous enemy of a better solution is an existing codebase that is just good enough."
