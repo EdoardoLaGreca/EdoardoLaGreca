@@ -14,14 +14,16 @@ One day I'm going to learn [Plan 9 from Bell Labs](https://en.wikipedia.org/wiki
 
 ## My opinions
 
- - Object-oriented programming tends to solve problems that don't exist and create problems that didn't exist.
- - [maybe a fact] The C programming language was never meant to be used for large programs, but rather small programs that communicate with each other.
+[TODO]
 
 ## Suggested readings
 
-[Plan 9: The Way the Future Was](http://www.catb.org/esr/writings/taoup/html/plan9.html)
+### About Unix & Plan 9
 
-[Plan 9 – perché no](https://okpanico.wordpress.com/2015/12/21/plan-9-perche-no/) (in Italian)
+ - [The Art of Unix Programming](http://www.catb.org/esr/writings/taoup/html/index.html)
+   - [Plan 9: The Way the Future Was](http://www.catb.org/esr/writings/taoup/html/plan9.html)
+ - [Plan 9 – perché no](https://okpanico.wordpress.com/2015/12/21/plan-9-perche-no/) (in Italian)
+ - [In praise of Plan 9](https://drewdevault.com/2022/11/12/In-praise-of-Plan-9.html)
 
 ## Noteworthy quotes
 
