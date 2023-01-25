@@ -27,18 +27,26 @@ One day I'm going to learn [Plan 9 from Bell Labs](https://en.wikipedia.org/wiki
 
 ## Noteworthy quotes
 
-> "The most dangerous enemy of a better solution is an existing codebase that is just good enough." -Eric S. Raymond
+> "The most dangerous enemy of a better solution is an existing codebase that is just good enough."  
+>  -Eric S. Raymond
 
-> "A language that doesn't have everything is actually easier to program in than some that do." -Dennis Ritchie
+> "A language that doesn't have everything is actually easier to program in than some that do."  
+>  -Dennis Ritchie
 
-> "... with proper design, the features come cheaply. This approach is arduous, but continues to succeed." -Dennis Ritchie
+> "... with proper design, the features come cheaply. This approach is arduous, but continues to succeed."  
+>  -Dennis Ritchie
 
-> "Object-oriented design is the roman numerals of computing." -Rob Pike
+> "Object-oriented design is the roman numerals of computing."  
+>  -Rob Pike
 
-> "Narrowness of experience leads to narrowness of imagination." -Rob Pike
+> "Narrowness of experience leads to narrowness of imagination."  
+>  -Rob Pike
 
-> "Languages that try to disallow idiocy become themselves idiotic." -Rob Pike
+> "Languages that try to disallow idiocy become themselves idiotic."  
+>  -Rob Pike
 
-> "When there is no type hierarchy you don't have to manage the type hierarchy." -Rob Pike
+> "When there is no type hierarchy you don't have to manage the type hierarchy."  
+>  -Rob Pike
 
-> "An idiot with a plan can beat a genius without a plan." -Warren Buffett
+> "An idiot with a plan can beat a genius without a plan."  
+>  -Warren Buffett
